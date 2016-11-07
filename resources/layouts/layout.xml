@@ -1,0 +1,6 @@
+<layout id="MainLayout">
+	<label id="RandomNumber" x="center" y="40" text="" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE" />
+	<label id="RandomCharacter" x="center" y="40" text="" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE" />
+	<label id="Countdown" x="center" y="100" text="....." color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE" />
+	<label id="Symbols" x="center" y="110" text="" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" font="Gfx.FONT_LARGE" />
+</layout>
